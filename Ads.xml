@@ -13,7 +13,7 @@
                             <CustomClick>#</CustomClick>
                         </VideoClicks>
                         <MediaFiles>
-                            <MediaFile id="3" delivery="progressive" type="video/mp4" scalable="1" maintainAspectRatio="1" codec="0" apiFramework="VAST"><![CDATA[https://pomf2.lain.la/f/l9k79uoj.mp4]]></MediaFile>
+                            <MediaFile id="3" delivery="progressive" type="video/mp4" scalable="1" maintainAspectRatio="1" codec="0" apiFramework="VAST"><![CDATA[https://pomf2.lain.la/f/inzxsj5.mp4]]></MediaFile>
                         </MediaFiles>
                     </Linear>
                 </Creative>
