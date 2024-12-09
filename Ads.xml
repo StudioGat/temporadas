@@ -7,7 +7,7 @@
             <Creatives>
                 <Creative id="2" sequence="1">
                     <Linear skipoffset="00:00:08">
-                        <Duration>00:00:08</Duration>
+                     
                        
                         <MediaFiles>
                             <MediaFile id="3" delivery="progressive" type="video/mp4" scalable="1" maintainAspectRatio="1" codec="0" apiFramework="VAST"><![CDATA[https://1a-1791.com/video/fw/s8/2/S/Z/9/f/SZ9fv.caa.mp4]]></MediaFile>
