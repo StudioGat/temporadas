@@ -9,7 +9,7 @@
                     <Linear skipoffset="00:00:08">
                         <Duration>00:00:08</Duration>
                         <VideoClicks>
-                            <ClickThrough id="blog"><![CDATA[#]]></ClickThrough>
+                            <ClickThrough id="blog"><![CDATA[https://ko-fi.com/s/54e97055f2]]></ClickThrough>
                             <CustomClick>#</CustomClick>
                         </VideoClicks>
                         <MediaFiles>
